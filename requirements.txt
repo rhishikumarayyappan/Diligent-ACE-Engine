@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-huggingface
+langgraph
+faiss-cpu
+gradio
+sentence-transformers
